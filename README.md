@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Code aficionado
 ---------------
 
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/AnkitDand/AnkitDand/assets/123248864/55703f6c-373a-4d50-98d7-625b63ff6c5e)
+
+
 A second-year computer engineering enthusiast, deeply immersed in the world of technology. Venturing into web development, I've started my journey learning HTML, CSS, and JavaScript, laying the groundwork for my expertise. Recently, I've redirected my focus towards app development, particularly with Flutter and Firebase, eager to expand my skill set. Fascinated by the core structures of software, I find myself exploring the intricate realms of data structures and algorithms. As for my aspirations, they stretch towards Artificial Intelligence, deeply interested in the field and its potential applications.
 
 * 🌍  I'm based in Mumbai
