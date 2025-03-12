@@ -7,29 +7,38 @@ Code aficionado
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/AnkitDand/AnkitDand/assets/123248864/55703f6c-373a-4d50-98d7-625b63ff6c5e)
 
 
-A second-year computer engineering enthusiast, deeply immersed in the world of technology. Venturing into web development, I've started my journey learning HTML, CSS, and JavaScript, laying the groundwork for my expertise. Recently, I've redirected my focus towards app development, particularly with Flutter and Firebase, eager to expand my skill set. Fascinated by the core structures of software, I find myself exploring the intricate realms of data structures and algorithms. As for my aspirations, they stretch towards Artificial Intelligence, deeply interested in the field and its potential applications.
+A driven third-year computer engineering student with a passion for data engineering and real-time processing. Skilled in core programming languages like Python, Java, and SQL, I thrive on transforming raw data into meaningful insights through scalable pipelines and big data analytics.
+
+Cloud computing and advanced analytics are my playgrounds, where I experiment with cutting-edge technologies to enhance efficiency and reliability. Currently, I'm diving into financial market automation to turn complex data into strategic intelligence.
+
+Fueled by ambition and innovation, I’m on a mission to shape the future of data engineering.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [ankitmdand@gmail.com](mailto:ankitmdand@gmail.com)
-* 🚀  I'm currently working on [Email Authentication using Firebase](http://github.com/AnkitDand/Email-Authentication)
-* 🧠  I'm learning Firebase
+* 🚀  I'm currently working on [Automated Stock Trading Bot](https://github.com/AnkitDand/Stock-Trading-Bot)
+* 🧠  I'm learning Google Cloud Platform (GCP)
 * ⚡  Every line of code is a brushstroke, and I paint with precision to achieve perfection.
 
 ### Skills
+<p> <a href="https://skillicons.dev">
+    <img src=https://go-skill-icons.vercel.app/api/icons?i=python,c,java,javascript,html,css,numpy,pandas,matplotlib,seaborn,kafka,airflow,streamlit,excel,git,github,jenkins,docker,terraform,aws,firebase,mysql,postgresql,mongodb/>
+</a> </p>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
-
-
-### Socials
+<!--### Socials
 
 <p align="left"> <a href="https://www.github.com/AnkitDand" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ankit-dand" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+-->
 
+### Stats
+
+<a href="https://github.com/AnkitDand" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitDand&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!--
 My Contibutions getting eaten up 🐍.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 <br>
+-->
