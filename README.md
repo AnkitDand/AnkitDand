@@ -70,7 +70,6 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 - YouTube API integration
 - Stored and analyzed metrics in PostgreSQL for insights
 - Real-time trend analysis dashboards
-- Engagement metrics tracking
 
 [View Project →](https://github.com/AnkitDand/YouTube-ETL-Pipeline-using-Airflow)
 
