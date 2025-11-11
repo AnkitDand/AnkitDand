@@ -79,7 +79,7 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 ### 📦 InventoryFlow
 **Multi-Tenant SaaS Platform**
 
-`React` `Node.js` `Supabase` `Express`
+`React` `Node.js` `Express` `Supabase` `PostgreSQL`
 
 ✨ **Highlights:**
 - Multi-tenant architecture & data isolation
