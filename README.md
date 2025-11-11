@@ -52,7 +52,7 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 - Role-based access control (RBAC)
 - Automated recurring expense tracking
 - Interactive dashboards with PDF/CSV exports
-- Admin-level user management
+- Admin-level management
 
 [View Project →](https://github.com/AnkitDand/TrackMySpend)
 
