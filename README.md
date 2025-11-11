@@ -84,7 +84,7 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 ✨ **Highlights:**
 - Multi-tenant architecture & data isolation
 - JWT authentication & session management
-- Automated low-stock emails
+- Automated low-stock emails notifications
 - Subscription tier management
 - CI/CD with Render & Vercel deployment
 
