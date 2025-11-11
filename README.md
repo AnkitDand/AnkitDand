@@ -169,9 +169,7 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 
 ### 🎉 Hacktoberfest 2025 - Complete Badge Collection
   
-<a href="https://holopin.io/@ankitdand">
-  <img src="https://holopin.me/ankitdand" width="700" alt="Hacktoberfest Badges"/>
-</a>
+[![Hacktoberfest Badges](https://holopin.me/ankitdand)](https://holopin.io/@ankitdand)
 
 <br><br>
 
