@@ -174,12 +174,12 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 <br><br>
 
 <!-- Trophy Section -->
-<img src="https://github-profile-trophy.vercel.app/?username=AnkitDand&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AnkitDand&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+-->
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -190,7 +190,7 @@ Final-year Computer Engineering student at **Dwarkadas J. Sanghvi College of Eng
 </div>
 
 ---
-
+-->
 ## 🎯 Currently Focused On
 
 ```python
